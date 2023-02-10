@@ -1,2 +1,3 @@
-# netDelegatingHandler
-netDelegatingHandler  to understand Delegatin Handler in C#
+# Home
+
+- https://codetosolutions.com/blog/13/delegatinghandler-in-asp.net-web-api
